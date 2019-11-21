@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549129.svg)](https://doi.org/10.5281/zenodo.3549129)
+
 # NSW State Archives
 
 This repository includes Jupyter notebooks for harvesting and analysing data from the NSW State Archives.
