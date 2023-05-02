@@ -15,4 +15,5 @@ tabulate
 wordcloud
 python-slugify
 jupyter-server-proxy
-altair-data-server
+# To get the data server working properly on Binder
+altair-data-server @ git+https://github.com/yuvipanda/altair_data_server@better-hub-support-2
