@@ -16,7 +16,7 @@ altair==4.2.2
     # via
     #   -r requirements.in
     #   altair-data-server
-altair-data-server==0.4.1
+altair-data-server @ git+https://github.com/yuvipanda/altair_data_server@better-hub-support-2
     # via -r requirements.in
 anyio==3.6.2
     # via jupyter-server
