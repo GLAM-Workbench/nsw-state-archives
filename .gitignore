@@ -3,8 +3,11 @@
 snippets.ipynb
 .ipynb_checkpoints
 *.png
-*.json
 csv
-cache.sqlite
+*.sqlite
 indexes.md
 images
+Untitled*.ipynb
+.pytest*
+indexes
+.env

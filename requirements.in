@@ -1,0 +1,19 @@
+jupyterlab
+# To deal with https://github.com/jupyter-server/jupyter_server/issues/1038
+jupyter-server<2.0.0
+voila
+voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git
+pandas
+requests
+altair
+python-dotenv
+tqdm
+ipywidgets
+beautifulsoup4
+requests-cache
+tabulate
+wordcloud
+python-slugify
+jupyter-server-proxy
+# To get the data server working properly on Binder
+altair-data-server @ git+https://github.com/yuvipanda/altair_data_server@better-hub-support-2
