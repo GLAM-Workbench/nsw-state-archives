@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549129.svg)](https://doi.org/10.5281/zenodo.3549129)
-
 # NSW State Archives
 
 Current version: [v1.0.0](https://github.com/GLAM-Workbench/nsw-state-archives/releases/tag/v1.0.0)
